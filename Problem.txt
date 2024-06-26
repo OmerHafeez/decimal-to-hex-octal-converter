@@ -1,0 +1,5 @@
+You have to write a c++ code to convert decimal to hexadecimal and octal.
+You are only allowed to use ternary operators no if and else or switches.
+Decimal = 20
+Hexadecimal = 14
+Octal = 24
